@@ -22,7 +22,7 @@ Using geographical data about recent earthquakes this map was created with some 
     - [earthquake_challenge/starter_code/major_eq_starter_logic.js]( earthquake_challenge/starter_code/major_eq_starter_logic.js)
     
 
-- Code: 
+### Code: 
     - HTML: [earthquake_challenge/index.html](earthquake_challenge/index.html)
     - CSS: [earthquake_challenge/static/css/style.css](earthquake_challenge/static/css/style.css)
     - JavaScript:  [earthquake_challenge/static/js/challenge_logic.js](earthquake_challenge/static/js/challenge_logic.js)
